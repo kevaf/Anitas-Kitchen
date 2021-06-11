@@ -1,0 +1,26 @@
+.landing{
+    background-image: url(./assets/backgrounds/landing.jpg);
+    background-repeat: no-repeat;
+}
+#logo{
+    text-align: center;
+}
+#landingsub{
+    display: flex;
+}
+
+#options{
+    display: flex;
+    flex-direction: column;
+}
+#breakfast, #lunch, #dinner{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+#breakfasttext, #lunchtext, #dinnertext{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
