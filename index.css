@@ -37,3 +37,11 @@ html, body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+#lunch{
+    background-color: white;
+    opacity: 0.5;
+}
+#partytime{
+    
+}
