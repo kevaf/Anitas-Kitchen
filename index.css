@@ -43,5 +43,12 @@ html, body{
     opacity: 0.5;
 }
 #partytime{
-    
+    background-color: #F15A29;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+#happyhour{
+    margin-top: 35px;
+    margin-bottom: 20px;
+
 }
