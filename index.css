@@ -1,18 +1,31 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+}
 .landing{
     background-image: url(./assets/backgrounds/landing.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-size: 24px;
+    color: white;
 }
 #logo{
     text-align: center;
+    padding-top: 10%;
 }
 #landingsub{
     display: flex;
+
 }
 
 #options{
     display: flex;
     flex-direction: column;
+    width: 190%;
+    text-align: center;
 }
+
 #breakfast, #lunch, #dinner{
     position: relative;
     text-align: center;
