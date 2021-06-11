@@ -52,3 +52,25 @@ html, body{
     margin-bottom: 20px;
 
 }
+
+.fastfood{
+    margin-top: 60px;
+    text-align:left;
+    display: flex;
+    margin-left: 12%;
+    margin-right: 20%;
+}
+#fastfoodimages{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 5px 5px 5px gray;
+    padding: 5px;
+}
+
+#fastfoodtext{
+    margin-left:10%;
+}
+
+.fastfood>#fastfoodtext>h2{
+    font-size: 20px;
+}
