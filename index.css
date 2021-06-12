@@ -91,3 +91,28 @@ html, body{
 #drinkstext{
     text-align: right;
 }
+
+.menu{
+    background-image: url(./assets/backgrounds/foodsBg.jpg);
+    background-repeat: no-repeat;
+    padding: 10%;
+    margin-top: 60px;
+}
+#menuitems{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+#menuimages{
+    display: flex;
+    justify-content: space-evenly;
+}
+#menucontainer{
+    background-color: white;
+}
+#menucaptions{
+    display: flex;
+    justify-content: space-evenly;
+    color: #F15A29;
+    font-weight:bold;
+}
