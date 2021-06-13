@@ -5,7 +5,7 @@ This is a website that displays the menu and offers that you can find available 
 ## Technologies Used
 The most interesting feature if CSS that is utilized and makes the site interesting is the flex property whis aids alot in the arrangement of the page.
 ## Support and Contact
-Incase of suggestions or improvements, contact +254707757676 or shoot us an email at kevohronoh@gmail.com
+Incase of suggestions or improvements on the project feel free to contact our team through our mobile number +254707757676 or shoot us an email at kevohronoh@gmail.com and we shall sure take into consideration what you have to offer.
 ### Licence
 MIT
 Copyright (c) [2021] [Kevin Kipyegon]
