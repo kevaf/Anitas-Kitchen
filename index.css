@@ -175,3 +175,7 @@ margin-right: 44%;
 justify-content: space-between;
 font-weight: bold;
 }
+a{
+    border: 2px solid #F15A29;
+    color: #F15A29;
+}
