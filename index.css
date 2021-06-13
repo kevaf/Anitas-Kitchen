@@ -91,3 +91,87 @@ html, body{
 #drinkstext{
     text-align: right;
 }
+
+
+.menu{
+    background-image: url(./assets/backgrounds/foodsBg.jpg);
+    background-repeat: no-repeat;
+    padding: 10%;
+    margin-top: 60px;
+}
+#menuitems{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+#menuimages{
+    display: flex;
+    justify-content: space-evenly;
+}
+#menucontainer{
+    background-color: white;
+}
+#menucaptions{
+    display: flex;
+    justify-content: space-evenly;
+    color: #F15A29;
+    font-weight:bold;
+}
+
+#border{
+    display: flex;
+     box-shadow: 0px 2px 10px 2px gray;
+     margin-top: 5%;
+     margin-left: 10%;
+     margin-right: 10%;
+     margin-bottom: 5%;
+     padding: 20px;
+    
+     
+}
+#comment{
+    border-right: 2px solid gray;
+    text-align: center;
+    margin-left: 5%;
+}
+.customers>#border>#comment>h1{
+    color: #F15A29;
+}
+.customers>#border>#aboutmenu>h1{
+    color: #F15A29;
+}
+#aboutmenu{
+    margin-left: 5%;
+}
+.orderpage{
+    background-image: url(./assets/backgrounds/subscribe.jpg);
+    height: 50%;
+    color: white;
+    text-align: center;
+}
+#oderpagedetails{
+ padding-top: 5%;
+}
+#subscribe{
+    display: flex;
+    margin-left: 40%;
+}
+#subscribe>button{
+    background-color: #F15A29;
+    color: white;
+    margin-left: 20px;
+}
+footer{
+    background-color: #F15A29;
+    text-align: center;
+    color: white;
+}
+
+#footerdiv {
+display: flex;
+text-align: center;
+margin-left: 46%;
+margin-right: 44%;
+justify-content: space-between;
+font-weight: bold;
+}
