@@ -92,6 +92,7 @@ html, body{
     text-align: right;
 }
 
+
 .menu{
     background-image: url(./assets/backgrounds/foodsBg.jpg);
     background-repeat: no-repeat;
@@ -123,8 +124,54 @@ html, body{
      margin-top: 5%;
      margin-left: 10%;
      margin-right: 10%;
+     margin-bottom: 5%;
+     padding: 20px;
+    
      
 }
+#comment{
+    border-right: 2px solid gray;
+    text-align: center;
+    margin-left: 5%;
+}
+.customers>#border>#comment>h1{
+    color: #F15A29;
+}
+.customers>#border>#aboutmenu>h1{
+    color: #F15A29;
+}
 #aboutmenu{
-    border-left: 2px solid gray;
+    margin-left: 5%;
+}
+.orderpage{
+    background-image: url(./assets/backgrounds/subscribe.jpg);
+    height: 50%;
+    color: white;
+    text-align: center;
+}
+#oderpagedetails{
+ padding-top: 5%;
+}
+#subscribe{
+    display: flex;
+    margin-left: 40%;
+}
+#subscribe>button{
+    background-color: #F15A29;
+    color: white;
+    margin-left: 20px;
+}
+footer{
+    background-color: #F15A29;
+    text-align: center;
+    color: white;
+}
+
+#footerdiv {
+display: flex;
+text-align: center;
+margin-left: 46%;
+margin-right: 44%;
+justify-content: space-between;
+font-weight: bold;
 }
