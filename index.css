@@ -14,6 +14,14 @@ html, body{
     text-align: center;
     padding-top: 10%;
 }
+#menuicon{
+    padding-left: 80px;
+    padding-top: 80px;
+    height:24px;
+    width:24px;
+    
+
+}
 #landingsub{
     display: flex;
 
@@ -175,7 +183,10 @@ margin-right: 44%;
 justify-content: space-between;
 font-weight: bold;
 }
-a{
+#a{
     border: 2px solid #F15A29;
+    width: 150px;
     color: #F15A29;
+    padding:10px;
+    text-align: center;
 }
